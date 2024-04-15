@@ -1,0 +1,36 @@
+.indigo {
+    background-color: #4A9AFB;
+    
+}
+
+.purple {
+    background-color : #A24AFB;
+
+}
+
+.pink {
+    background-color : #FF6289;
+}
+
+.red {
+    background-color: #FF6363;
+    
+}
+
+.dark {
+    background-color: #6E6CCC;
+}
+
+.kanbanboard {
+    display : flex;
+    justify-content: center;
+    align-items: center;
+    margin : 0 16px 0 16px;
+
+}
+/* kt-board {
+    background-color: black !important;
+} */
+/* kt-board>tbody>tr>td, kt-board>thead>tr>td {
+    background-color: black !important;
+} */
